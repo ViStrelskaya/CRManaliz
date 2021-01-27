@@ -1,7 +1,9 @@
 # analizcrm.github.io
 ## Сравнительный анализ.ТОП 10 CRM
 
-## [CRM  МойСклад](https://crmindex.ru)
+## [CRM  МойСклад] 
+
+(https://crmindex.ru)
 
 - Цена: -- 0 – 6900 рос. руб
 
