@@ -1,4 +1,4 @@
-# analizcrm.github.io
+# CRManaliz.github.io
 
 ## Сравнительный анализ.ТОП 10 CRM
 
